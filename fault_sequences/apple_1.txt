@@ -1,0 +1,26 @@
+Syscall intercepted pid=26312
+Syscall: pid=26312
+0x7fffffffd000
+0x601000
+0x7ffff7fce000
+0x7ffff7b5c000
+0x7ffff7b60000
+0x7ffff7b5d000
+0x613000
+0x7ffff7ffe000
+0x7ffff7fd1000
+0x7ffff7ffd000
+0x7ffff7fd2000
+0x7ffff7dd3000
+0x7fffffffe000
+0x7ffff7791000
+0x7ffff7792000
+0x614000
+0x616000
+0x7ffff7fd0000
+0x7ffff7dd6000
+0x7ffff7f73000
+0x7d4000
+Syscall intercepted pid=-1
+Syscall: pid=-1
+

@@ -1,0 +1,4 @@
+[  398.820726] Syscall intercepted pid=3754
+[  398.820978] Syscall: pid=3754
+[  398.821007] Syscall intercepted pid=-1
+[  398.821230] Syscall: pid=-1

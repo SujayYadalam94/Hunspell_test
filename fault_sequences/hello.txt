@@ -1,0 +1,7 @@
+[  673.333161] Syscall intercepted pid=3869
+[  673.333411] Syscall: pid=3869
+[  673.333435] 0x7ffff7dd6000
+[  673.333437] 0x7ffff7fa3000
+[  673.333437] 0x944000
+[  673.333439] Syscall intercepted pid=-1
+[  673.333664] Syscall: pid=-1
